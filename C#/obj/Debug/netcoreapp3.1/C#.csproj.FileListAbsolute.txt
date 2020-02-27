@@ -1,0 +1,11 @@
+/home/augustobatz/Documentos/C#/bin/Debug/netcoreapp3.1/C#
+/home/augustobatz/Documentos/C#/bin/Debug/netcoreapp3.1/C#.deps.json
+/home/augustobatz/Documentos/C#/bin/Debug/netcoreapp3.1/C#.runtimeconfig.json
+/home/augustobatz/Documentos/C#/bin/Debug/netcoreapp3.1/C#.runtimeconfig.dev.json
+/home/augustobatz/Documentos/C#/bin/Debug/netcoreapp3.1/C#.dll
+/home/augustobatz/Documentos/C#/bin/Debug/netcoreapp3.1/C#.pdb
+/home/augustobatz/Documentos/C#/obj/Debug/netcoreapp3.1/C#.csprojAssemblyReference.cache
+/home/augustobatz/Documentos/C#/obj/Debug/netcoreapp3.1/C#.AssemblyInfoInputs.cache
+/home/augustobatz/Documentos/C#/obj/Debug/netcoreapp3.1/C#.AssemblyInfo.cs
+/home/augustobatz/Documentos/C#/obj/Debug/netcoreapp3.1/C#.dll
+/home/augustobatz/Documentos/C#/obj/Debug/netcoreapp3.1/C#.pdb
